@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4521913258259697935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4427517842203766140}
+  - component: {fileID: 4521913258259697931}
+  - component: {fileID: 4521913258259697930}
+  - component: {fileID: 4521913258259697929}
+  - component: {fileID: 4521913258259697928}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4427517842203766140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521913258259697935}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4521913258259697931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521913258259697935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 706525b18b47c3348bcad502a7e55529, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  masterVolume: 1
+  masterSlider: {fileID: 0}
+  musicOn: 1
+  musicVolume: 1
+  musicSlider: {fileID: 0}
+  ambientOn: 1
+  ambientVolume: 1
+  ambientSlider: {fileID: 0}
+  fxOn: 1
+  fxVolume: 1
+  fxSlider: {fileID: 0}
+  musicToggle: {fileID: 0}
+  ambientToggle: {fileID: 0}
+  fxToggle: {fileID: 0}
+  musicSwitch: {fileID: 0}
+  ambientSwitch: {fileID: 0}
+  fxSwitch: {fileID: 0}
+  musicName: 
+  startWithNewMusic: 1
+  ambientName: 
+  StartWithNewAmbient: 1
+  musicStartFade: 2.5
+  musicStopFade: 2.5
+  ambientStartFade: 2.5
+  ambientStopFade: 2.5
+--- !u!114 &4521913258259697930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521913258259697935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2009ff70cd2ff6a40bfa1a73b1015b0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicGroups: []
+--- !u!114 &4521913258259697929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521913258259697935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 462cc6ec53fcbbf428c9fd3afcf9b117, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ambientGroups: []
+--- !u!114 &4521913258259697928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521913258259697935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e669e132077b50d46bc829bcca708959, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundGroups: []

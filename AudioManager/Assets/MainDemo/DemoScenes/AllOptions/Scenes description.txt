@@ -1,0 +1,46 @@
+Scenes description
+
+=============================
+Scene_01
+-----------------------------
+StartWithNewMusic - is true
+MusicName - is "Start music"
+StartWithNewAmbient - is true
+AmbientName - is "Start ambient"
+
+Scene start with new music and ambient
+
+=============================
+Scene_02
+-----------------------------
+StartWithNewMusic - is false
+MusicName - is Null
+StartWithNewAmbient - is false
+AmbientName - is Null
+
+if next scene and music/ambient is playing, scene start with continuable music/ambient from the old scene
+if new scene - music/ambient not playing
+
+=============================
+Scene_03
+-----------------------------
+StartWithNewMusic - is true
+MusicName - is "Start music"
+StartWithNewAmbient - is false
+AmbientName - is Null
+
+Scene start with new music
+if next scene and ambient is playing, scene start with continuable ambient from the old scene
+if new scene - ambient not playing
+
+=============================
+Scene_04
+-----------------------------
+StartWithNewMusic - is false
+MusicName - is Null
+StartWithNewAmbient - is true
+AmbientName - is "Start ambient"
+
+Scene start with new ambient
+if next scene and music is playing, scene start with continuable music from the old scene
+if new scene - music not playing

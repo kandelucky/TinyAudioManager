@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 257435e688b6aca46a3166f35b2d24b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2221256397648774578
+    second: AudioManager_UI_BackGround
+  - first:
+      213: -7397722182224753195
+    second: AudioManager_UI_Pop
+  - first:
+      213: 7149301194832358040
+    second: AudioManager_UI_Cube
+  - first:
+      213: 2020075783119743373
+    second: AudioManager_UI_PlayButt
+  - first:
+      213: 1918150681611630516
+    second: AudioManager_UI_LongButt
+  - first:
+      213: 2241792730806710020
+    second: AudioManager_UI_Arrows
+  - first:
+      213: -7628236002442717073
+    second: AudioManager_UI_InputFieldBack
+  - first:
+      213: 6986212921382804541
+    second: AudioManager_UI_Togle_02
+  - first:
+      213: 3850361475361799954
+    second: AudioManager_UI_Toggle_01
+  - first:
+      213: 6265453185296042992
+    second: AudioManager_UI_ButtonBlocked
+  - first:
+      213: -5743694324255152333
+    second: AudioManager_UI_ButtonPressed
+  - first:
+      213: 650717800397430311
+    second: AudioManager_UI_Button
+  - first:
+      213: 5367355724618695696
+    second: AudioManager_UI_field
+  - first:
+      213: 3480832451039866146
+    second: AudioManager_UI_Loading
+  - first:
+      213: 8081444555124482187
+    second: AudioManager_UI_SliderHandle
+  - first:
+      213: 4535180426900773488
+    second: AudioManager_UI_SliderBackGround
+  - first:
+      213: -3615381976037512602
+    second: AudioManager_UI_Slider
+  - first:
+      213: 2057142609840325859
+    second: AudioManager_UI_ButtMusicON
+  - first:
+      213: -3210967803057625750
+    second: AudioManager_UI_ButtMusicOFF
+  - first:
+      213: 586576001157559364
+    second: AudioManager_UI_MusicON
+  - first:
+      213: 8184103559014201665
+    second: AudioManager_UI_MusicOFF
+  - first:
+      213: -1572790912927775751
+    second: AudioManager_UI_AmbientOFF
+  - first:
+      213: 3140956621729131800
+    second: AudioManager_UI_AmbientON
+  - first:
+      213: 2849473615080484188
+    second: AudioManager_UI_SoundON
+  - first:
+      213: -505062730536215947
+    second: AudioManager_UI_SoundOFF
+  - first:
+      213: -2861933095400228036
+    second: AudioManager_UI_ButtAmbientON
+  - first:
+      213: -3202368640931784453
+    second: AudioManager_UI_ButtAmbientOFF
+  - first:
+      213: 1803136548031279130
+    second: AudioManager_UI_ButtSoundON
+  - first:
+      213: -6620232344880848032
+    second: AudioManager_UI_ButtSoundOFF
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AudioManager_UI_BackGround
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 1161
+        height: 1127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54be8ccec73de10800000000000000
+      internalID: 2221256397648774578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Pop
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 775
+        width: 213
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 9, z: 9, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd477dbed2065990800000000000000
+      internalID: -7397722182224753195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Cube
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 742
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 8, z: 8, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a224ede8b673360800000000000000
+      internalID: 7149301194832358040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_PlayButt
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 784
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a830d830c80c10800000000000000
+      internalID: 2020075783119743373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_LongButt
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 860
+        width: 211
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 16, z: 25, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b77223d1e3ae9a10800000000000000
+      internalID: 1918150681611630516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Arrows
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 821
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f69c37c927c1f10800000000000000
+      internalID: 2241792730806710020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_InputFieldBack
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 863
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 6, z: 6, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685e8b95cf032690800000000000000
+      internalID: -7628236002442717073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Togle_02
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 829
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c144033a304f060800000000000000
+      internalID: 6986212921382804541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Toggle_01
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 866
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff9cb9c5b3f6530800000000000000
+      internalID: 3850361475361799954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtonBlocked
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 780
+        width: 73
+        height: 34
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 8, y: 8, z: 9, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb096ae97c53f650800000000000000
+      internalID: 6265453185296042992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtonPressed
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 820
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 9, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3372858817c4a40b0800000000000000
+      internalID: -5743694324255152333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Button
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 860
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 9, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e56bd4460d70900800000000000000
+      internalID: 650717800397430311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_field
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 722
+        width: 212
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 8, z: 7, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148e05189dac7a40800000000000000
+      internalID: 5367355724618695696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Loading
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 774
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d22e60ca66e4030800000000000000
+      internalID: 3480832451039866146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_SliderHandle
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 819
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a53c610f072070800000000000000
+      internalID: 8081444555124482187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_SliderBackGround
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 849
+        width: 234
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 5, z: 9, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a99b1e19230fe30800000000000000
+      internalID: 4535180426900773488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_Slider
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 874
+        width: 234
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 4, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2fe67f3593ddc0800000000000000
+      internalID: -3615381976037512602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtMusicON
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 711
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e44adfed407c8c10800000000000000
+      internalID: 2057142609840325859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtMusicOFF
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 711
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a889abc95073d0800000000000000
+      internalID: -3210967803057625750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_MusicON
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 713
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f3c6e3cfe32800800000000000000
+      internalID: 586576001157559364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_MusicOFF
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 713
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493d0063d6c39170800000000000000
+      internalID: 8184103559014201665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_AmbientOFF
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 677
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f34af86ff25c2ae0800000000000000
+      internalID: -1572790912927775751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_AmbientON
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 677
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d631de76be69b20800000000000000
+      internalID: 3140956621729131800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_SoundON
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 639
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d68bfd72d5b8720800000000000000
+      internalID: 2849473615080484188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_SoundOFF
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 640
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a991d5f18adf8f0800000000000000
+      internalID: -505062730536215947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtAmbientON
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 674
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3cbd430f5848d0800000000000000
+      internalID: -2861933095400228036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtAmbientOFF
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 674
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8196d10b6ee83d0800000000000000
+      internalID: -3202368640931784453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtSoundON
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 637
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10bde21327060910800000000000000
+      internalID: 1803136548031279130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AudioManager_UI_ButtSoundOFF
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 637
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06363d002c53024a0800000000000000
+      internalID: -6620232344880848032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
