@@ -1,9 +1,15 @@
-Warning!
+# TinyAudioManager
+Updated version
+
 For correctly working:
+
 You need to add in the project new tags - "music" and "fx". (Edit > Project Settings > Tags and Layers)
-Add all demo scenes to Build Settings window (File > Build Settings..)
-// cenes folders (MainDemo > DemoScenes & >> AllOptions/MinimumOptions & ZombiSoft > TinyAudioManager > Demo)
-This project was create first off all for main mobile game. For correctly visualise you need to change game windows resolutions to any mobile portrait sizes. (for example 1280x720)
+
+Add all demo scenes to the Build Settings window (File > Build Settings..)
+
+// Scenes folders (MainDemo > DemoScenes & >> AllOptions/MinimumOptions & ZombiSoft > TinyAudioManager > Demo)
+
+This project was created first of all for the main mobile game. To correctly visualise you need to change game windows resolutions to any mobile portrait sizes. (for example 1280x720)
 
 Added:
 
@@ -17,7 +23,7 @@ Added:
 
 . Sliders volume settings
 
-. Toggles/Switchers On/Off settings
+. Toggles/Switches On/Off settings
 
 . Music/ambient custom or default fade settings (default settings You can sets in AudioManager)
 
@@ -27,10 +33,14 @@ Added:
 
 . Sliders options
 
-If master slider volume = 0 - all sliders change colors and all toggles/switchers becomes OFF positions
-If master slider volume = 0 and You will change any Other slider value - all sliders change colors and all toggles/switchers becomes ON positions. master volume slider value become on 0.5 (min 0 = OFF, max 1)
+If master slider volume = 0 - all sliders change colors and all toggles/switchers become OFF positions
+
+If master slider volume = 0 and You will change any Other slider value - all sliders change colors and all toggles/switchers become ON positions. master volume slider value become on 0.5 (min 0 = OFF, max 1)
+
 If volume sliders value = 0 - Toggles/Switchers becomes on OFF positions
-If volume sliders value = 0 and become more than 0, Toggles/Switchers becomes on ON positions
+
+If volume sliders value = 0 and become more than 0, Toggles/Switches becomes on ON positions
+
 If Toggles/Switchers becomes on ON position - the volume slider value become on 0.5 (min 0 = OFF, max 1)
 
 . Scene starts with Music/Ambient (new Music/Ambient if next scene) or not
@@ -49,17 +59,15 @@ If Toggles/Switchers becomes on ON position - the volume slider value become on 
 
 Fixed
 
-. Ambient is always fade and it have new delay funqcion
+. Ambient is always fade and it have new delay function
 
-. Simple play music funqcion
+. Simple play music function
 
-. Simple play ambient funqcion
-
-. Simple funqcion for to call play fxSound funqcion (with name)
+. Simple play ambient function. Simple function for to call play fxSound function (with name)
 
 . Looping now is always true (for not looping music You can play sound fx)
 
 
-// Also
-// Main demo contains the font and sounds/ambients/music files from TinyAudioManager
-// Unity assest size (7,6 MB.) contains ~ 6 MB. music and grafick files
+// Main demo contains the font and sounds/ambients/music files from TinyAudioManager 
+
+// Unity asset size (7,6 MB.) contains ~ 6 MB. music and graphic files
